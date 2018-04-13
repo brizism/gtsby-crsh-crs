@@ -1,3 +1,6 @@
+$pink: pink;
+$gold: gold;
+
 html {
   font-family: sans-serif;
   -ms-text-size-adjust: 100%;
@@ -40,7 +43,7 @@ template {
 a {
   background-color: transparent;
   -webkit-text-decoration-skip: objects;
-  color: red;
+  color: $pink;
   text-decoration: none;
 }
 a:active,
