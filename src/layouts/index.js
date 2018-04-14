@@ -4,7 +4,7 @@ import Helmet from 'react-helmet'
 
 import Header from '../components/header'
 import Menu from '../components/menu'
-import './index.scss'
+import '../sass/main.scss'
 
 const Layout = ({ children, data }) => (
   <div>
